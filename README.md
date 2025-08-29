@@ -21,6 +21,11 @@ Welcome to **Project Trupti**, an innovative AI-based Irrigation Plan designed t
 
 ---
 
+## 📞 Hotline (same for whatsapp)
+- **+1(346)487-9110**
+
+---
+
 ## 📋 How to Use
 1. **Call the Hotline**: Dial **+1(346)487-9110** for real-time guidance.
 2. **Stay Alerted**: Receive timely notifications before water release.
@@ -28,10 +33,7 @@ Welcome to **Project Trupti**, an innovative AI-based Irrigation Plan designed t
 
 ---
 
-## 📞 Hotline (same for whatsapp)
-- **+1(346)487-9110**
 
----
 
 ## 🎯 Target Audience
 - Farmers in remote Marwari villages with limited internet access.

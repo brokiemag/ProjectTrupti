@@ -49,6 +49,4 @@ For support or inquiries, reach out through the hotline service or check the pro
 ---
 
 ## ✨ Acknowledgments
-Special thanks to the xAI community and farmers like Ramesth for inspiring this project!
 
-*Last updated: August 30, 2025*

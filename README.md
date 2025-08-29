@@ -1,5 +1,5 @@
 # 🌱 Project Trupti - AI-Powered Irrigation Revolution
-![Alt Text](https://i.postimg.cc/s2QK0RWw/image.png)
+![Alt Text]([https://i.postimg.cc/s2QK0RWw/image.png](https://i.postimg.cc/T2zyrv2T/truptiimage.png))
 ## 🌟 Overview
 Welcome to **Project Trupti**, an innovative AI-based Irrigation Plan designed to empower farmers like Ramesh with cutting-edge technology. Featuring a voice calling system, this solution provides real-time irrigation guidance, working seamlessly both online and offline—even in remote Marwari villages with limited internet access. Built with inclusivity in mind, it overcomes language barriers and ensures timely water management.
 

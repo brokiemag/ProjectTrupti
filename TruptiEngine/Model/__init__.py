@@ -1,10 +1,4 @@
-"""
-ProjectTrupti.Model: (MasterLLM Service)
-LLM Service Handler for all AI related tasks.
 
-Developed and maintained by Aditya Gaur / @xdityagr at Github / adityagaur.home@gmail.com
-© 2025 Trupti AI. All rights reserved.
-"""
 
 import os
 from dotenv import load_dotenv

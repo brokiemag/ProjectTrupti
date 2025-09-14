@@ -1,15 +1,3 @@
-
-"""
-Project Trupti 
-an innovative AI-powered irrigation assistant designed to empower farmers with smart, 
-ata-driven farming solutions. Leveraging real-time weather data, crop requirements, 
-and soil conditions, Trupti delivers personalized irrigation plans to optimize water usage and enhance crop yields. 
-
-To run use : 
-uvicorn app:app --port 5000
-ngrok http 5000
-
-Developed and maintained by Aditya Gaur / @xdityagr at Github / adityagaur.home@gmail.com
 """
 
 

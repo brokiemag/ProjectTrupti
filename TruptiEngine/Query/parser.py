@@ -1,10 +1,4 @@
-"""
-MatchBoxAIEngine.Query: (Query Parsing Service)
-Supports PDF, Docx, Voice, Text, LLMRESP.
 
-Developed and maintained by Aditya Gaur / @xdityagr at Github / adityagaur.home@gmail.com
-© 2025 MatchBox AI. All rights reserved.
-"""
 import os
 import requests
 from dotenv import load_dotenv
